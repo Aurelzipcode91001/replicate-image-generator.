@@ -1,7 +1,4 @@
 # replicate-image-generator.
-
-# Replicate Image Generator
-
 ## Overview
 This script uses the Replicate API to generate images based on a given text prompt. It downloads the generated images, resizes them to 1920x1080, and saves them locally.
 
@@ -41,4 +38,12 @@ input_data = {
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+
+
+
+
+
+
+
 
